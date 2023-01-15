@@ -1,0 +1,29 @@
+body {
+  background-color: #f0f0f0;
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+h1 {
+  color: #333;
+}
+.center {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+<div class="headerr">
+<div class="header">
+    <img src="header-Image.png">
+</div>
+<!-- header ends here -->
+
+
+<div class="header-image.png">
+    <nav class="menu">
+        ...
+    </nav>
+</div>
+<!-- menu-wrap ends here-->
+</div>
